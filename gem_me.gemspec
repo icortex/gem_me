@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = GemMe::VERSION
   spec.authors       = ["Victor Cortes"]
   spec.email         = ["ie.cortex@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{My first gem}
+  spec.summary       = %q{Building my own gem following a tutorial!}
+  spec.homepage      = "http://hi.im/victor.cortes"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
