@@ -1,5 +1,8 @@
 require "gem_me/version"
 
 module GemMe
-  # Your code goes here...
+  
+  def self.my_name
+  	'Victor Cortes'
+  end
 end
